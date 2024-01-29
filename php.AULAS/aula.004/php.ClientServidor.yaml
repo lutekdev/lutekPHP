@@ -1,0 +1,16 @@
+CLIENTE E SERVIDOR:
+  Cliente: Imagine que você está em um restaurante. Neste cenário, você é o cliente. Você chega ao restaurante, senta-se em uma mesa e examina o cardápio. Em seguida, decide o que deseja pedir ao garçom. Quando você faz o pedido, o garçom leva sua solicitação à cozinha, onde os chefs preparam a comida. Uma vez que a comida está pronta, o garçom a traz de volta à sua mesa para que você a aproveite. Na computação, um cliente é semelhante a esse cliente no restaurante. Ele é um dispositivo, aplicativo ou programa que solicita serviços ou recursos de um servidor.
+
+  Exemplo de Cliente:
+    - Navegador da web (por exemplo, Chrome, Firefox, Safari)
+    - Aplicativo de e-mail (por exemplo, Outlook, Gmail)
+    - Aplicativo de mensagens (por exemplo, WhatsApp, Telegram)
+
+  Servidor: Agora, imagine que o restaurante tem uma cozinha onde os chefs preparam todas as refeições. Essa cozinha seria o servidor. Os chefs estão prontos para atender aos pedidos dos clientes, preparar a comida e enviá-la de volta para as mesas.Na computação, um servidor é um dispositivo ou programa que fornece recursos, serviços ou informações para outros dispositivos chamados clientes.
+
+  Exemplo de Servidor:
+    - Servidores web (que hospedam sites e fornecem páginas da web aos navegadores dos usuários)
+    - Servidores de e-mail (que armazenam e gerenciam e-mails, permitindo que os clientes acessem suas mensagens)
+    - Servidores de arquivos (que armazenam e fornecem acesso a arquivos para os clientes)
+
+    - Portanto, na relação cliente-servidor, os clientes solicitam serviços ou recursos, e os servidores atendem a essas solicitações, fornecendo os serviços ou recursos solicitados. Isso é fundamental para muitas interações na internet e em sistemas distribuídos.

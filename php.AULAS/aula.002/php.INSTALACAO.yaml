@@ -1,0 +1,11 @@
+APACHE:
+  - https://httpd.apache.org/download.cgi
+
+XAMP:
+  - https://www.apachefriends.org/pt_br/download.html
+
+LEMBRETES:
+  - Arquivo de Configuração do APACHE
+    - HTTPD.CONF
+  - Arquivo de Configuração do PHP
+    - PHP.INI

@@ -18,3 +18,5 @@ CURIOSIDADES:
     - 3306 >> MYSQL >> BANCO DE DADOS
     - 5432 >> POSTGRES >> BANCO DE DADOS
     - 6379 >> REDIS >> BANCO DE DADOS
+
+PIADA: "Um homem entra em um restaurante e diz ao garçom: 'Preciso usar o banheiro, mas parece que está trancado!' O garçom responde: 'Ah, sim! É que recentemente atualizamos nossos banheiros para um novo protocolo. Agora você precisa usar a porta 587 para entrar.' O homem, perplexo, pergunta: 'A porta 587? Isso não é um pouco complicado?' O garçom sorri e diz: 'Bem, queríamos garantir que apenas os usuários mais autenticados conseguissem entrar!'"

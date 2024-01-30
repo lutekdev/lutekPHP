@@ -13,6 +13,7 @@
 | Editor vs IDE e Hello World             | [Arquivo Guia](./php.AULAS/aula.003/#)        | [Arquivo Pyhton](#)                                            |
 | Arquitetura Cliente/Servidor            | [Arquivo Guia](./php.AULAS/aula.004/#)        | [Arquivo Pyhton](./php.AULAS/aula.004/php.ClientServidor.yaml) |
 | O Que é GIT                             | [Arquivo Guia](#)                             | [Arquivo Pyhton](./php.AULAS/aula.005/php.ENTENDENDOGIT.yaml)  |
-| Clonando um Repositório                 | [Arquivo Guia](./php.AULAS/aula006/README.md) | [Arquivo Pyhton](./php.AULAS/aula.005/php.ENTENDENDOGIT.yaml)  |
+| Clonando um Repositório                 | [Arquivo Guia](./php.AULAS/aula006/README.md) | [Arquivo Pyhton](#)                                            |
+| Criando Seu Repositório                 | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo Pyhton](#)                                            |
 
 # Sumário Completo de Exercicios

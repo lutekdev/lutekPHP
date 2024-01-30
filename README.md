@@ -6,7 +6,7 @@
 
 # Sumário Completo de Aulas
 
-| Titulos                                          | GUIA                                          | .PY                                                         |
+| Titulos                                          | GUIA                                          | .PHP                                                         |
 | ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------- |
 | Instalando PHP e Apache                          | [Arquivo Guia](./php.AULAS/aula.002/#)        | [Arquivo PHP](./php.AULAS/aula.002/php.INSTALACAO.yaml)     |
 | Historia do PHP e Evolução da Linguagem          | [Arquivo Guia](./php.AULAS/aula.001/#)        | [Arquivo PHP](./php.AULAS/aula.001/php.HISTORIA.yaml)       |

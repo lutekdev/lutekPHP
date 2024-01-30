@@ -15,5 +15,6 @@
 | O Que é GIT                             | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula.005/php.ENTENDENDOGIT.yaml)  |
 | Clonando um Repositório                 | [Arquivo Guia](./php.AULAS/aula006/README.md) | [Arquivo PHP](#)                                            |
 | Criando Seu Repositório                 | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
+| GitHub vs BitBucket                     | [Arquivo Guia](#)                             | [Arquivo PHP](#)                                            |
 
 # Sumário Completo de Exercicios

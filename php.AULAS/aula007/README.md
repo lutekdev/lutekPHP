@@ -22,3 +22,6 @@
 
 - `git remote add origin (Link Da URL.git)`
   - Esse comando é usado para você especificar no projeto em que está fazendo onde ele será enviado, em qual repositorio do GitHub, basicamente é a secretaria tivesse falando olha você vai para tal 'consultorio' ou para tal 'medico'.
+
+- `git push origin master`
+  - Esse comando é usado para enviar o que estava na `Stage Area` para o repositorio escolhido, após enviar esse comando todos os arquivos serão enviados para o repositorio destino.

@@ -2,10 +2,10 @@
 
 ### Comandos Usados:
 
--  `git config --global user.name`
+-  `git config --global user.name "Nome do Usuário"`
    - Comando serve para mencionar para a ferramenta do `git` o nome do usuário que está tentando conectar ou fazer requests para os servidores.
 
-- `git config --global user.email`
+- `git config --global user.email "E-Mail do Usuário"`
   - Comando básicamente o mesmo do `user.name` aqui ele está perguntando ao usuário qual o e-mail que vai ser usado para acessar os repositórios na qual está tentando criar ou baixar.
 
 - `git init`

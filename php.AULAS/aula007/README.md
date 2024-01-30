@@ -25,3 +25,6 @@
 
 - `git push origin master`
   - Esse comando é usado para enviar o que estava na `Stage Area` para o repositorio escolhido, após enviar esse comando todos os arquivos serão enviados para o repositorio destino.
+
+- `git pull origin master`
+  - Esse comando é usado para exemplo, você está no GitHub e editou um arquivo diretamente pelo GitHub, você vai usar esse comando para puxar essas informações para seu código-fonte ou seja o projeto que está criado em seu computador.

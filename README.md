@@ -17,5 +17,6 @@
 | Criando Seu Repositório                          | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
 | GitHub vs BitBucket                              | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
 | Editando Arquivos Remotos e Resolvendo Conflitos | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
+| Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](#)                                            |
 
 # Sumário Completo de Exercicios

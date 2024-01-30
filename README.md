@@ -19,5 +19,6 @@
 | Editando Arquivos Remotos e Resolvendo Conflitos | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
 | Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula010/main.php)                 |
 | Tipos de Dados no PHP                            | [Arquivo Guia](./php.AULAS/aula011/README.md) | [Arquivo PHP](./php.AULAS/aula011/main.php)                 |
+| Variáveis Pré-Definidas                          | [Arquivo Guia](./php.AULAS/aula011/README.md) | [Arquivo PHP](./php.AULAS/aula011/main.php)                 |
 
 # Sumário Completo de Exercicios

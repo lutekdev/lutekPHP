@@ -6,7 +6,7 @@
 
 # Sumário Completo de Aulas
 
-| Titulos                                          | GUIA                                          | .PHP                                                         |
+| Titulos                                          | GUIA                                          | .PHP                                                        |
 | ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------- |
 | Instalando PHP e Apache                          | [Arquivo Guia](./php.AULAS/aula.002/#)        | [Arquivo PHP](./php.AULAS/aula.002/php.INSTALACAO.yaml)     |
 | Historia do PHP e Evolução da Linguagem          | [Arquivo Guia](./php.AULAS/aula.001/#)        | [Arquivo PHP](./php.AULAS/aula.001/php.HISTORIA.yaml)       |
@@ -17,6 +17,7 @@
 | Criando Seu Repositório                          | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
 | GitHub vs BitBucket                              | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
 | Editando Arquivos Remotos e Resolvendo Conflitos | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
-| Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](#)                                            |
+| Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula010/main.php)                 |
+| Tipos de Dados no PHP                            | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula011/main.php)                 |
 
 # Sumário Completo de Exercicios

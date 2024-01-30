@@ -20,5 +20,6 @@
 | Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula010/main.php)                 |
 | Tipos de Dados no PHP                            | [Arquivo Guia](./php.AULAS/aula011/README.md) | [Arquivo PHP](./php.AULAS/aula011/main.php)                 |
 | Variáveis Pré-Definidas                          | [Arquivo Guia](./php.AULAS/aula012/README.md) | [Arquivo PHP](./php.AULAS/aula012/main.php)                 |
+| Escopo de Variável                               | [Arquivo Guia](./php.AULAS/aula012/README.md) | [Arquivo PHP](./php.AULAS/aula012/main.php)                 |
 
 # Sumário Completo de Exercicios

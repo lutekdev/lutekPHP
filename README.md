@@ -6,20 +6,21 @@
 
 # Sumário Completo de Aulas
 
-| Titulos                                          | GUIA                                          | .PHP                                                        |
-| ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------- |
-| Instalando PHP e Apache                          | [Arquivo Guia](./php.AULAS/aula.002/#)        | [Arquivo PHP](./php.AULAS/aula.002/php.INSTALACAO.yaml)     |
-| Historia do PHP e Evolução da Linguagem          | [Arquivo Guia](./php.AULAS/aula.001/#)        | [Arquivo PHP](./php.AULAS/aula.001/php.HISTORIA.yaml)       |
-| Editor vs IDE e Hello World                      | [Arquivo Guia](./php.AULAS/aula.003/#)        | [Arquivo PHP](#)                                            |
-| Arquitetura Cliente/Servidor                     | [Arquivo Guia](./php.AULAS/aula.004/#)        | [Arquivo PHP](./php.AULAS/aula.004/php.ClientServidor.yaml) |
-| O Que é GIT                                      | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula.005/php.ENTENDENDOGIT.yaml)  |
-| Clonando um Repositório                          | [Arquivo Guia](./php.AULAS/aula006/README.md) | [Arquivo PHP](#)                                            |
-| Criando Seu Repositório                          | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
-| GitHub vs BitBucket                              | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
-| Editando Arquivos Remotos e Resolvendo Conflitos | [Arquivo Guia](./php.AULAS/aula007/README.md) | [Arquivo PHP](#)                                            |
-| Utilizando Variáveis no PHP                      | [Arquivo Guia](#)                             | [Arquivo PHP](./php.AULAS/aula010/main.php)                 |
-| Tipos de Dados no PHP                            | [Arquivo Guia](./php.AULAS/aula011/README.md) | [Arquivo PHP](./php.AULAS/aula011/main.php)                 |
-| Variáveis Pré-Definidas                          | [Arquivo Guia](./php.AULAS/aula012/README.md) | [Arquivo PHP](./php.AULAS/aula012/main.php)                 |
-| Escopo de Variável                               | [Arquivo Guia](./php.AULAS/aula012/README.md) | [Arquivo PHP](./php.AULAS/aula012/main.php)                 |
+| ID  | Titulos                                          | GUIA                                                    | .PHP                                                                  |
+| --- | ------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------------------- |
+| 001 | Instalando PHP e Apache                          | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula.001/php.HISTORIA.yaml)       |
+| 002 | Historia do PHP e Evolução da Linguagem          | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula.002/php.INSTALACAO.yaml)     |
+| 003 | Editor vs IDE e Hello World                      | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula.003/main.php)                |
+| 004 | Arquitetura Cliente/Servidor                     | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula.004/php.ClientServidor.yaml) |
+| 005 | O Que é GIT                                      | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula.005/php.ENTENDENDOGIT.yaml)  |
+| 006 | Clonando um Repositório                          | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula006/README.md) | [Arquivo PHP]()                                                       |
+| 007 | GitHub vs BitBucket                              | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula007/README.md) | [Arquivo PHP]()                                                       |
+| 008 | Editando Arquivos Remotos e Resolvendo Conflitos | [Arquivo Guia]()                                        | [Arquivo PHP]()                                                       |
+| 009 | Criando Seu Repositório                          | [Arquivo Guia]()                                        | [Arquivo PHP]()                                                       |
+| 010 | Utilizando Variáveis no PHP                      | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula010/main.php)                 |
+| 011 | Tipos de Dados no PHP                            | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula011/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula011/main.php)                 |
+| 012 | Variáveis Pré-Definidas                          | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula012/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula012/main.phpS)                |
+| 013 | Escopo de Variável                               | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula013/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula013/main.php)                 |
+| 014 | Conhecendo os Operadores do PHP                  | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula014/main.php)                 |
 
 # Sumário Completo de Exercicios

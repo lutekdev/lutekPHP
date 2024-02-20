@@ -27,7 +27,6 @@ echo trim(" ", $nome);
 echo str_replace(" ", "", $nome);
 echo "\n\n";
 
-
 // Pegar o Indice de Uma Palavra
 $frase = "O rato roeu a roupa do rei de roma";
 $q = strpos($frase, "roeu");

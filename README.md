@@ -21,6 +21,9 @@
 | 011 | Tipos de Dados no PHP                            | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula011/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula011/main.php)                 |
 | 012 | Variáveis Pré-Definidas                          | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula012/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula012/main.phpS)                |
 | 013 | Escopo de Variável                               | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula013/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula013/main.php)                 |
+<<<<<<< HEAD
 | 014 | Conhecendo os Operadores do PHP                  | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula014/main.php)                 |
+=======
+>>>>>>> 6fe71f5f64fce2f31c5b6e00c19e99ad741de3bf
 
 # Sumário Completo de Exercicios

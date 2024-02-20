@@ -4,7 +4,7 @@
 
 ---
 
-# Sumário Completo de Aulas
+# Sumário Completo de Aulas - HCode
 
 | ID  | Titulos                                          | GUIA                                                    | .PHP                                                                  |
 | --- | ------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -21,9 +21,16 @@
 | 011 | Tipos de Dados no PHP                            | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula011/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula011/main.php)                 |
 | 012 | Variáveis Pré-Definidas                          | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula012/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula012/main.phpS)                |
 | 013 | Escopo de Variável                               | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula013/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula013/main.php)                 |
-<<<<<<< HEAD
 | 014 | Conhecendo os Operadores do PHP                  | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula014/main.php)                 |
-=======
->>>>>>> 6fe71f5f64fce2f31c5b6e00c19e99ad741de3bf
+| 015 | Strings em PHP                                   | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula015/main.php)                 |
 
-# Sumário Completo de Exercicios
+# Sumário Completo de Exercicios - HCode
+
+
+# Sumário Completo de Aulas - Matheus Battisti
+| ID  | Titulos    | GUIA             | .PHP            |
+| --- | ---------- | ---------------- | --------------- |
+| 001 | Introdução | [Arquivo Guia]() | [Arquivo PHP]() |
+
+# Sumário Completo de Exercicios - Matheus Battisti
+

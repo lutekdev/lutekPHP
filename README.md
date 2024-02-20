@@ -23,6 +23,7 @@
 | 013 | Escopo de Variável                               | [Arquivo Guia](php.AULAS/HCODE.Aulas/aula013/README.md) | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula013/main.php)                 |
 | 014 | Conhecendo os Operadores do PHP                  | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula014/main.php)                 |
 | 015 | Strings em PHP                                   | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula015/main.php)                 |
+| 016 | Incluindo Arquivos Com Include e Require         | [Arquivo Guia]()                                        | [Arquivo PHP](php.AULAS/HCODE.Aulas/aula016/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

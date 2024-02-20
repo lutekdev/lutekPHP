@@ -139,3 +139,17 @@ echo "\n\n";
  * Depois:
  *  - Faz com que o valor seja incrementado depois da atribuição ou seja depois de ser calculado no programa.
  */
+
+// Precendence
+
+/**
+ * Precedencia:
+ *  - 1. ()
+ *  - 2. ** 
+ *  - 3. * / % 
+ *  - 4. + - 
+ *  - 5. == != < > <= >= 
+ *  - 6. &&  
+ *  - 7. || 
+ *  - 8. ? :
+ */

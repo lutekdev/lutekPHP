@@ -59,4 +59,10 @@ var_dump($a <= $b); // Menor Igual
 echo ("\n");
 
 var_dump($a != $b); // Diferente
-echo ("\n\n");
+echo ("\n");
+
+var_dump($a === $b); // Igualguade de Tipos
+echo "\n";
+
+var_dump($a !== $b); // Diferente de Tipos
+echo "\n\n";

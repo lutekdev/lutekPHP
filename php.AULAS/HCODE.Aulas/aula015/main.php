@@ -25,3 +25,15 @@ echo trim(" ", $nome);
 
 // Retirar Espacos de Toda String
 echo str_replace(" ", "", $nome);
+echo "\n\n";
+
+
+// Pegar o Indice de Uma Palavra
+$frase = "O rato roeu a roupa do rei de roma";
+$q = strpos($frase, "roeu");
+echo $q;
+
+echo "\n\n";
+
+$texto = substr($frase, 7, $q);
+echo $texto;

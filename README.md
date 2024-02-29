@@ -28,6 +28,7 @@
 | 018 | Switch Case                                      | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula018/main.php)                 |
 | 019 | For                                              | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula019/main.php)                 |
 | 020 | Foreach                                          | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula020/main.php)                 |
+| 021 | While                                            | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula021/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

@@ -24,6 +24,7 @@
 | 014 | Conhecendo os Operadores do PHP                  | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula014/main.php)                 |
 | 015 | Strings em PHP                                   | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula015/main.php)                 |
 | 016 | Incluindo Arquivos Com Include e Require         | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula016/main.php)                 |
+| 017 | Estruturas Condicionais - If, ElseIf e Else      | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula017/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

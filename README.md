@@ -25,6 +25,9 @@
 | 015 | Strings em PHP                                   | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula015/main.php)                 |
 | 016 | Incluindo Arquivos Com Include e Require         | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula016/main.php)                 |
 | 017 | Estruturas Condicionais - If, ElseIf e Else      | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula017/main.php)                 |
+| 018 | Switch Case                                      | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula018/main.php)                 |
+| 019 | For                                              | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula019/main.php)                 |
+| 020 | Foreach                                          | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula020/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

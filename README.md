@@ -29,6 +29,8 @@
 | 019 | For                                              | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula019/main.php)                 |
 | 020 | Foreach                                          | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula020/main.php)                 |
 | 021 | While                                            | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula021/main.php)                 |
+| 022 | Array em PHP                                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula022/main.php)                 |
+| 023 | JSON                                             | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula023/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

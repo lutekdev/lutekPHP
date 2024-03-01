@@ -31,6 +31,7 @@
 | 021 | While                                            | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula021/main.php)                 |
 | 022 | Array em PHP                                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula022/main.php)                 |
 | 023 | JSON                                             | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula023/main.php)                 |
+| 024 | Constante e Array Constantes                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula024/main.php)                 |
 
 # Sumário Completo de Exercicios - HCode
 

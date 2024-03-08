@@ -6,7 +6,7 @@
 
 # Sumário Completo de Aulas - HCode
 
-| ID  | Titulos                                          | GUIA                                                      | .PHP                                                                    |
+| ID  | Títulos                                          | GUIA                                                      | .PHP                                                                    |
 | --- | ------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 001 | Instalando PHP e Apache                          | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula.001/php.HISTORIA.yaml)       |
 | 002 | Historia do PHP e Evolução da Linguagem          | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula.002/php.INSTALACAO.yaml)     |
@@ -34,12 +34,12 @@
 | 024 | Constante e Array Constantes                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula024/main.php)                 |
 | 025 | Criando e Entendendo Sessões                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula025/main.php)                 |
 
-# Sumário Completo de Exercicios - HCode
+# Sumário Completo de Exercícios - HCode
 
 # Sumário Completo de Aulas - Matheus Battisti
 
-| ID  | Titulos    | GUIA               | .PHP              |
+| ID  | Títulos    | GUIA               | .PHP              |
 | --- | ---------- | ------------------ | ----------------- |
 | 001 | Introdução | [✘ Arquivo Guia]() | [✘ Arquivo PHP]() |
 
-# Sumário Completo de Exercicios - Matheus Battisti
+# Sumário Completo de Exercícios - Matheus Battisti

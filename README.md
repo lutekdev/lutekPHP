@@ -33,6 +33,8 @@
 | 023 | JSON                                             | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula023/main.php)                 |
 | 024 | Constante e Array Constantes                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula024/main.php)                 |
 | 025 | Criando e Entendendo Sessões                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula025/main.php)                 |
+| 026 | ID de Sessões                                    | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula026/main.php)                 |
+| 027 | Funções Para Sessões                             | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula027/main.php)                 |
 
 # Sumário Completo de Exercícios - HCode
 

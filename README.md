@@ -1,4 +1,4 @@
-# Curso Completo de PHP7
+# Curso Completo de PHP
 
 <img src="https://10pearls.com/wp-content/uploads/2023/06/PHP-Development-Banner-scaled.jpg" alt="Logo do PHP"></img>
 

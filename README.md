@@ -35,6 +35,10 @@
 | 025 | Criando e Entendendo Sessões                     | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula025/main.php)                 |
 | 026 | ID de Sessões                                    | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula026/main.php)                 |
 | 027 | Funções Para Sessões                             | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula027/main.php)                 |
+| 028 | Criando Funções de Usuário                       | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula028/main.php)                 |
+| 029 | Parâmetros de Funções                            | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula029/main.php)                 |
+| 030 | Parâmetros por Valor x Por Referência            | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula030/main.php)                 |
+| 031 | Funções no PHP 7 Novidades                       | [✘ Arquivo Guia]()                                        | [✓ Arquivo PHP](php.AULAS/HCODE.Aulas/aula031/main.php)                 |
 
 # Sumário Completo de Exercícios - HCode
 
